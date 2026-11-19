@@ -1,0 +1,49 @@
+# License
+
+This repository contains the source of a personal blog. Different parts of it
+are covered by different terms, as set out below.
+
+## Articles and photographs
+
+All blog articles and photographs are licensed under the
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+license.
+
+You are free to share (copy and redistribute the material in any medium or
+format) under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you
+  may not distribute the modified material.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+## Branding
+
+The site name, logo, favicon, and all other branding elements, together with
+the overall design and layout of the site, are **not** licensed under the
+above Creative Commons license. These are provided for the sole purpose of
+operating the original website.
+
+Copyright © 2026 Balázs Németh. All rights reserved. No permission is granted
+to use, reproduce, or distribute the branding elements, in whole or in part,
+without prior written consent.
+
+## Forking this repository
+
+Forking this repository is permitted solely as permitted by GitHub's Terms of
+Service. A fork does not grant any rights beyond those expressly granted
+above. In particular, forking does not grant the right to reuse the site's
+branding, its design, or its content outside the terms of the
+CC BY-NC-ND 4.0 license, and forks must not present themselves as the
+original site or associate themselves with its domain.
+
+## Domain
+
+The custom domain used by this site is owned and operated by Balázs Németh.
+It is in no way transferred or licensed by forking this repository.
