@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Cap the post hero image so smaller featured images are not upscaled;
+   width: 100% still applies below the cap (mobile).
+   display: block is required for margin-inline: auto to center an <img>. */
+.page__hero-image {
+  display: block;
+  max-width: 625px;
+  margin-inline: auto;
+}
+
+/* Center images in post/page content. The theme's global
+   img { max-width: 100%; height: auto; } still prevents overflow. */
+.page__content img {
+  display: block;
+  margin-inline: auto;
+}
